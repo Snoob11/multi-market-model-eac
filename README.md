@@ -1,4 +1,4 @@
-#partly took 6-7 years because I think only convergence is a objective not a strategy 
+#political economy of ad-hoc tariff changes
 
 # multimarketmodeleac
 GAMS multimarket model simulating rice trade trade in EAC, adapted from J. Peerlings (2023)<br>
