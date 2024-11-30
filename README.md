@@ -4,7 +4,7 @@
 GAMS multimarket model simulating rice trade trade in EAC, adapted from J. Peerlings (2023)<br>
 
 Used in my thesis to analyse the functioning of the East African customs unions diversions from the stay of tarrif, acension of the DRC to the customs union 
-and simulation of lower tarif. 
+and simulation of lower tarif on rice imports from outside the region. 
 
 Abstract<br>
 <br>
